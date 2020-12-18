@@ -1,3 +1,3 @@
-# Mobile-Store-Management-System
+# Customer-Billing-System
 Program using c language...
 --For Collage project
